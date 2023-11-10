@@ -1,16 +1,6 @@
 <h1 align="center">Greetings 👋</h1>
 <p >Hello guys! My name is Maxim Pavlenko, a Java developer and C++ enthusiast from Vilnius, Lithuania.</p>
 
-## My projects
-<h3>"Pizzeria" - a pizza restaurant website</h3>
-<a href="https://github.com/Vlinkus/BaigiamasisDarbas_PicerijaFront">
-  <img src="https://github.com/YoungPickling/YoungPickling/blob/main/pizzeria_2.png" align="top" style="width: 400px; " alt="Pizzeria meniu"/>
-</a>
-<a href="https://github.com/Vlinkus/BaigiamasisDarbas_Picerija">
-  <img src="https://github.com/YoungPickling/YoungPickling/blob/main/pizzeria_1.png" align="top" style="width: 400px; " alt="Pizzeria main page"/>
-</a>
-<br/><i>More projects could be found in the "Pinned" section </i>
-
 ## About me
 
 - 🔭 I am currently working on a personal website to help musicians in their lyrics writing journey by making their life easier. In addition to that, as a person, who is obsessed with music, I am also learning C++ with the intention of developing my very own VST plugin
