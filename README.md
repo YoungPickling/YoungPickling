@@ -1,5 +1,5 @@
 <h1 align="center">Greetings 👋</h1>
-<p >Hello guys! My name is Maxim Pavlenko, a Java developer and C++ enthusiast from Vilnius, Lithuania.</p>
+<p>Hello guys! My name is Max, a Java developer and C++ enthusiast from Vilnius, Lithuania.</p>
 
 ## About me
 
