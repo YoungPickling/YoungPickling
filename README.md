@@ -1,10 +1,5 @@
 <h1 align="center">Greetings 👋</h1>
-<p>Hello guys! My name is Maksim, a low level programming enthusias and a Java developer with a goal of becoming a Java Backend developer.</p>
-
-## About me
-
-- 🔭 I am currently working on a universal warehouse management system (WMS) using Angular and Spring Boot
-- 👯 Currently, I wouldn't mind collaborating for an interesting project where my skill set is needed.
+<p>Hi! My name is Maksim, a Java developer and low level programming enthusiast!</p>
 
 ## Skills
 
