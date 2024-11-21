@@ -1,6 +1,6 @@
 <h1 align="center">Congratulations!</br>You Are One Interview Away From a Hiring Headache</h1>
 
-- 😁 Hello! My name is Maksim, a Java developer who actually makes bugs and errors disappear
+- 😁 Hello! My name is Maksim, a Java developer who actually vanishes bugs and errors
 - 👨‍💻 I'm a full stack developer, because no one wants a candidate who knows only half the stack!
 - 💪 Always open for a job opportunity. Not all heroes wear capes — some just write code
 
