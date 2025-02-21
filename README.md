@@ -1,4 +1,4 @@
-<h1 align="center">Congratulations!</br>You Are One Interview Away From a Hiring Headache</h1>
+<h1 align="center">Welcome!</h1>
 
 - 😁 Hello! My name is Maksim, a Java developer who actually vanishes bugs and errors
 - 👨‍💻 I'm a Full-stack developer, because no one wants a person who knows only half the stack!
